@@ -1,0 +1,31 @@
+{
+  "version": "1.1.7",
+  "notes": "Latest release of c0depad - A fast, lightweight code scratchpad",
+  "pub_date": "2025-01-27T00:00:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_x86_64.dmg"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_aarch64.dmg"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_x86_64.AppImage"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_aarch64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_x86_64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.1.7/c0depad_1.1.7_arm64-setup.exe"
+    }
+  }
+}
