@@ -1,31 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Latest release of c0depad - A fast, lightweight code scratchpad",
-  "pub_date": "2025-10-07T05:34:46Z",
+  "version": "1.3.0",
+  "notes": "c0depad 1.3.0 \u2014 command palette, open/save fixes, indent guides, onboarding sample, settings polish.",
+  "pub_date": "2026-09-20T13:36:53Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_x86_64.dmg"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_aarch64.dmg"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_x86_64.AppImage"
-    },
-    "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_aarch64.AppImage"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_x86_64-setup.exe"
-    },
-    "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJEODE2RjMxQ0ExODkyRgpSV1F2aWFFYzh4YllBcWhkM1AwNVpybWtIaENvampkcjZTdU1hTkQ4YU11enNqSW9FZmZsZjRqMwo=",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.2.0/c0depad_1.2.0_aarch64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWhpQ05vY0RQZEJDcWIzYmUwODhZRm9Tc2VFOFk0a3p0RmpjQWtVeTA5cS83RlJZT2pkREQ2VGRLQVVPLytCNGJGNUNDYlF0aGlhbnF2ZnJyUTh4NlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTExMzcyCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkNrclR6NWd1OWs4RTY1MytYTnhRdjVHZlQyOSs3cWwzWGJzRzVETEdheVJIYW9NVU0rTTFobllGRktJRGtKcE5OblRqYUlwSjRLaW5EWHRQQVBuRENnPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.0/c0depad_1.3.0_aarch64.app.tar.gz"
     }
   }
 }
