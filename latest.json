@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
-  "notes": "c0depad 1.3.2 \u2014 fix in-app update download; copyright 2026.",
-  "pub_date": "2026-09-21T01:40:06Z",
+  "version": "1.3.3",
+  "notes": "c0depad 1.3.3 \u2014 fix in-app updater with global Tauri Channel/invoke.",
+  "pub_date": "2026-09-21T01:54:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXBhWDJ6QjRKR3U3VWN4R0ZwUEFxZUJ1QUhVSGRUczZHdmZXVkVIc0VseUpsb0tPRlZlb3FZaVFJWWZrcmZRQUh2SS93SFJiZkZqOE95OXFUZVFYT3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU0Nzc0CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6Cnh3RGZ1bjUvZXBCSENhMzFTR0RCalN5Y3I1dlgxR1BEdjBRaEVkbHBQMjlwOEJXeWgrMFgrdk1TYXBac2VZSUxZVGxIMzE1OGM2NDE5ZFYraWVHQUN3PT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.2/c0depad_1.3.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXYrZXp6YVJsYXVJZDhXQncwSTg5VzhGZXBmNWpKd1RJMW93Y2VQdTFGVDVVYVFGbDJ4T3NpZnVJTmhDblkvU2N1VXFmOHB0b1owWjFEL0NIQVVWOEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU1MjM4CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6Cis0WE5WdzFkZ1pleHJOYzljaXJ2N2pMOXdKS2E3Zlh3bUhCQ3hXU0l2d2JBeTZXRFlNYUlBeitWaVc1MTNTOHMyb0VCTjB4cjZVS1VpUFF4Rk4xcUJnPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.3/c0depad_1.3.3_aarch64.app.tar.gz"
     }
   }
 }
