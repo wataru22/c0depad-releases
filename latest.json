@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
-  "notes": "c0depad 1.3.1 \u2014 JetBrains Mono (bundled) with slashed zeros.",
-  "pub_date": "2026-09-21T01:33:05Z",
+  "version": "1.3.2",
+  "notes": "c0depad 1.3.2 \u2014 fix in-app update download; copyright 2026.",
+  "pub_date": "2026-09-21T01:40:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXB6cnRBWTlvSU5nZHE4L2lzU0RucTVza2FlQUxXS1g2a0Z4Y3phYTJKT3NHaUVvNUgxQzZaeFk1cjNGbUw3L3dJcjdPZGt1YlFVaWorLzNOU1hySmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUyNTUxCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CllRZkt6eXYxcnI1Wm9lOUtqS2ZBNEFNd0ZKT3RnWkVKYkcrRFB4cmF4WDFoREh0MWpvb3Zab1ozbU9meS9OTUZZVVlDa0JpcTFYRTRnZ0VFOFNwOUNBPT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.1/c0depad_1.3.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXBhWDJ6QjRKR3U3VWN4R0ZwUEFxZUJ1QUhVSGRUczZHdmZXVkVIc0VseUpsb0tPRlZlb3FZaVFJWWZrcmZRQUh2SS93SFJiZkZqOE95OXFUZVFYT3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU0Nzc0CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6Cnh3RGZ1bjUvZXBCSENhMzFTR0RCalN5Y3I1dlgxR1BEdjBRaEVkbHBQMjlwOEJXeWgrMFgrdk1TYXBac2VZSUxZVGxIMzE1OGM2NDE5ZFYraWVHQUN3PT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.2/c0depad_1.3.2_aarch64.app.tar.gz"
     }
   }
 }
