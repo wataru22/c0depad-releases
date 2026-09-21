@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "c0depad 1.3.0 \u2014 command palette, open/save fixes, indent guides, onboarding sample, settings polish.",
-  "pub_date": "2026-09-20T13:36:53Z",
+  "version": "1.3.1",
+  "notes": "c0depad 1.3.1 \u2014 JetBrains Mono (bundled) with slashed zeros.",
+  "pub_date": "2026-09-21T01:33:05Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWhpQ05vY0RQZEJDcWIzYmUwODhZRm9Tc2VFOFk0a3p0RmpjQWtVeTA5cS83RlJZT2pkREQ2VGRLQVVPLytCNGJGNUNDYlF0aGlhbnF2ZnJyUTh4NlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTExMzcyCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkNrclR6NWd1OWs4RTY1MytYTnhRdjVHZlQyOSs3cWwzWGJzRzVETEdheVJIYW9NVU0rTTFobllGRktJRGtKcE5OblRqYUlwSjRLaW5EWHRQQVBuRENnPT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.0/c0depad_1.3.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXB6cnRBWTlvSU5nZHE4L2lzU0RucTVza2FlQUxXS1g2a0Z4Y3phYTJKT3NHaUVvNUgxQzZaeFk1cjNGbUw3L3dJcjdPZGt1YlFVaWorLzNOU1hySmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUyNTUxCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CllRZkt6eXYxcnI1Wm9lOUtqS2ZBNEFNd0ZKT3RnWkVKYkcrRFB4cmF4WDFoREh0MWpvb3Zab1ozbU9meS9OTUZZVVlDa0JpcTFYRTRnZ0VFOFNwOUNBPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.1/c0depad_1.3.1_aarch64.app.tar.gz"
     }
   }
 }
