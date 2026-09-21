@@ -1,11 +1,11 @@
 {
-  "version": "1.3.4",
-  "notes": "c0depad 1.3.4 \u2014 only \u2325\u23180 is system-wide; other hotkeys when focused.",
-  "pub_date": "2026-09-21T02:00:12Z",
+  "version": "1.3.5",
+  "notes": "c0depad 1.3.5 \u2014 Finder Open With loads the chosen file on cold and warm start.",
+  "pub_date": "2026-09-21T16:20:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXZqczdjSlZxeGY5cEdOb0x2N2NPOWlUS0pUS1dyUTUxanVJZlV0V0NWc2ZZN2RteWt3WXorbnFNdk1ZckJ4RzhNdFJjQXVmNXdQU1lLd0F1UGtndXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU2MDA4CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkJrUndGVDVmNld4ckVlRHZyL1FiUk92Y05VM2IvREp3UnZjcjlRQXI3S0ZJenJaMnZlNFR6cW1laEhVRUoyQWVxYndFYmV1dERLUFRSVi9sWmtzL0J3PT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.4/c0depad_1.3.4_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXZmZDBLeG9wanFuYUthblhDOSt0UUx5cElvYlpTaTdiT2ZVblVrd1dHc0JaNzlhRHQ2dXhPSFplSEM1M3JZNk50UDVjWVNWRk9QZ3JXSFhrNHROQXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDA3NDM5CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkEvMHhIVnh6Q1M1dHVxcUFFTVVhRmdQd25NdDExR2dvc09pMEh2R3pLTWh2Tk4zOTBPRG9xTTZLOUFkQitHdFdSZCtSTFpuSU40YVNrS0VHOWNjN0J3PT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.5/c0depad_1.3.5_aarch64.app.tar.gz"
     }
   }
 }
