@@ -1,11 +1,11 @@
 {
-  "version": "1.3.10",
-  "notes": "# c0depad 1.3.10\n\n- Keep shipped app bundles readable when the release umask is private (#22)\n- Highlight the active line number and allow hiding toolbar icons. (#21)\n- Make embedded Store profile readable and reject inaccessible bundles\n- Allow sandboxed WebKit helper startup and document native capture checks\n- Accept real Mac App Store profiles and Installer signatures\n- Harden isolated Mac App Store builds and fail-closed distribution UI\n- Merge remote-tracking branch 'origin/main' into release/c0depad-appstore-verified\n- Add a sandboxed Mac App Store build beside the Gumroad release.",
-  "pub_date": "2026-10-20T11:33:57Z",
+  "version": "1.3.12",
+  "notes": "# c0depad 1.3.12\n\n- Rename the General settings label to Appearance.\n- Show the cursor line and column in a compact status pill.\n- Add scrollable space below the last line without changing document content.\n- Restore native macOS Quit (Command-Q) and Close Window (Command-W) menu actions.",
+  "pub_date": "2026-10-24T23:56:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWhuMEZheHV1b2o0Y01MdVBLMzVUMzRjL0xTUEowWGliSWlRdEx2N1JNTG9xYVpyMFRCNkNXVGUzNnBzTlorbmM1SXZJV1dadTdwN0Y2T3l4SUUrVFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDk2MDA3CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6Cmc2NU14ZlBhNS9oemhjNkhWZ2tiUmgxS1RRSmJtdkt2YU96Z2tlM0hSYk55b3NoWkZwSUhsMllXZ3FPL1hGNGZ6UlI5Z3lQRjk3TllKM1FGS0gxd0JnPT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.10/c0depad_1.3.10_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWhORHhDM1JXZXFIMWU0ZmVFT2hJckp1dnVXUFdLQ2t6VGZUVm1yaHY0TndpdGp6NitKTHlvNzBQazlJRm9rekRGcG95SytxQVQ0bFpwcFlHMEdsdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MTQ3CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CktEOGJVNjhwQi9kLzdHZFIvK0xLMHk3Um5xazA0dzlqMjc2cmVpQjVQbFZZTE9XR0dFckxPWXQrUjYwOEtDK1NsbkxNcnlzaVpUbC9vNnE5QTJRcEJ3PT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.12/c0depad_1.3.12_aarch64.app.tar.gz"
     }
   }
 }
