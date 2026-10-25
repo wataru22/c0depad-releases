@@ -1,11 +1,11 @@
 {
-  "version": "1.3.12",
-  "notes": "# c0depad 1.3.12\n\n- Rename the General settings label to Appearance.\n- Show the cursor line and column in a compact status pill.\n- Add scrollable space below the last line without changing document content.\n- Restore native macOS Quit (Command-Q) and Close Window (Command-W) menu actions.",
-  "pub_date": "2026-10-24T23:56:17Z",
+  "version": "1.3.13",
+  "notes": "# c0depad 1.3.13\n\n- Check for updates quietly at launch and daily, including after waking or returning to the app. Installation remains your choice.\n- Use a consistent update flow in About and the editor, with a brief confirmation after a successful update.\n- Keep the cursor line and column in a compact, theme-aware status pill.\n- Scroll the final line above the bottom controls without adding blank lines to your document.",
+  "pub_date": "2026-10-25T00:03:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWhORHhDM1JXZXFIMWU0ZmVFT2hJckp1dnVXUFdLQ2t6VGZUVm1yaHY0TndpdGp6NitKTHlvNzBQazlJRm9rekRGcG95SytxQVQ0bFpwcFlHMEdsdGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2MTQ3CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CktEOGJVNjhwQi9kLzdHZFIvK0xLMHk3Um5xazA0dzlqMjc2cmVpQjVQbFZZTE9XR0dFckxPWXQrUjYwOEtDK1NsbkxNcnlzaVpUbC9vNnE5QTJRcEJ3PT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.12/c0depad_1.3.12_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWkvVk5ZbDQ4RUVqQmdBcjhjVkt2dk9BaE8rOWgrdnZVNWZFYlpnODhFQjlpYyszRFk3WkgrMW9JUFdyRnJQa3VrWUpnZXEwdHJDUWNjQUFoME5OTFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2NTcxCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkI2N1FKNFE1N3Fmb2NNSVRSOVRFL1hIcWJUSlpNYVFNN2Y4bElWdFhNM0NhSjdtVWdjSWZCdU1weml4YWpneEg4a2xaM3luZERUK0x2N25kN04yMUNBPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.13/c0depad_1.3.13_aarch64.app.tar.gz"
     }
   }
 }
