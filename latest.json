@@ -1,11 +1,11 @@
 {
-  "version": "1.3.13",
-  "notes": "# c0depad 1.3.13\n\n- Check for updates quietly at launch and daily, including after waking or returning to the app. Installation remains your choice.\n- Use a consistent update flow in About and the editor, with a brief confirmation after a successful update.\n- Keep the cursor line and column in a compact, theme-aware status pill.\n- Scroll the final line above the bottom controls without adding blank lines to your document.",
-  "pub_date": "2026-10-25T00:03:20Z",
+  "version": "1.3.14",
+  "notes": "# c0depad 1.3.14\n\n- Keep c0depad running with its scratch buffer when closing the window on macOS; reopen from the Dock or summon shortcut.\n- Route Quit and Command-Q through an explicit native exit command; remove the unresolvable frontend plugin import.\n- Limit scroll-past-end padding to five rendered lines, with a cap for short windows.\n\nThis Gumroad-first build is for manual confirmation of Command-W, reopen, and Command-Q behavior. Native keypress behavior has not been automated-verified.",
+  "pub_date": "2026-10-25T03:07:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQWkvVk5ZbDQ4RUVqQmdBcjhjVkt2dk9BaE8rOWgrdnZVNWZFYlpnODhFQjlpYyszRFk3WkgrMW9JUFdyRnJQa3VrWUpnZXEwdHJDUWNjQUFoME5OTFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg2NTcxCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CkI2N1FKNFE1N3Fmb2NNSVRSOVRFL1hIcWJUSlpNYVFNN2Y4bElWdFhNM0NhSjdtVWdjSWZCdU1weml4YWpneEg4a2xaM3luZERUK0x2N25kN04yMUNBPT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.13/c0depad_1.3.13_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXRRMHRGSXZTUmk2dngvcndyVkVtVmx3b0pUWWlqY2xBSVpFdm1lQVNaakhhVm9sVkVLN3FNcGcyUGpyM1RnMC9wcHdNZWFBTHFuUlhEd1JTY1lLQVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODk3NjI3CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CmhCVTZoSnBIN1BKNk1HSjBQVVI4VlJiOGZsUWVBSzFNY1BnTzN1QWdZalZRZWF4ZmhxR3R5NFdaVnBSanVWVVBabFVoc3NSeXBLNkg4aVl0N0l6RkJRPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.14/c0depad_1.3.14_aarch64.app.tar.gz"
     }
   }
 }
