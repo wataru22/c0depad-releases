@@ -1,11 +1,11 @@
 {
-  "version": "1.3.15",
-  "notes": "# c0depad 1.3.15\n\n- Match the cursor-position badge to the file-type label with a compact rounded rectangle.\n- Show cursor position as line / column, for example 12 / 52, without the ln: and col: prefixes. Existing zero-based positions are unchanged.",
-  "pub_date": "2026-10-25T03:23:16Z",
+  "version": "1.3.16",
+  "notes": "# c0depad 1.3.16\n\n- Use one-based cursor positions matching the editor gutter",
+  "pub_date": "2026-10-25T17:15:39Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXIvRUtDeVZ3Y2hwYkxscUdPclRRUEE2d1BZWnpTeDhoQjNZeFUrWExXdDUvc2VqUC9yeVlpcG05ekZxdkNQOTBOQ21qdzJ2OEhheXo5bVFMNW56Y0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODk4NTcwCWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6CjZ5MVZzTk01VFMyVnZWdDNtUzRoVTJ3L0RnRGhnUDVNTmFFTGFtblN4aGRQL2hnd1VSNjZSRnY1TFlwU2E2YmVTOXRwbWVZWE1aTUVSNytXdFl2a0NnPT0K",
-      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.15/c0depad_1.3.15_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdmlhRWM4eGJZQXFHalpuaU5vdzMveEI3WlV1RTJ0MkZXWWFoa0t4VFpuOCtPanNya3RIQ2Y1Z3llOENkVW9lWVVzNE1mS0F5THduOHBCUjNrb3d5L1p6QTdzTHdBK3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQ4NTA5CWZpbGU6YzBkZXBhZC5hcHAudGFyLmd6Ckp3Q01VUi8rcHF4Ui9MSk4wOW1HcVV4OGxGSWIrMCtxalR2S2J5VGY5MEx5SkZxT1NzelBTeXhYaWJrbmpSdi9YNUhLM3hvK25idVl6WW9KRFhlcUFRPT0K",
+      "url": "https://github.com/wataru22/c0depad-releases/releases/download/v1.3.16/c0depad_1.3.16_aarch64.app.tar.gz"
     }
   }
 }
